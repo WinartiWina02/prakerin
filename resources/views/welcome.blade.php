@@ -26,26 +26,26 @@
 	<link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,700" rel="stylesheet">
 
 	<!-- Animate.css -->
-	<link rel="stylesheet" href="css/animate.css">
+	<link rel="stylesheet" href="{{ asset('assets/css/animate.css')}}">
 	<!-- Icomoon Icon Fonts-->
-	<link rel="stylesheet" href="css/icomoon.css">
+	<link rel="stylesheet" href="{{ asset('assets/css/icomoon.css')}}">
 	<!-- Bootstrap  -->
-	<link rel="stylesheet" href="css/bootstrap.css">
+	<link rel="stylesheet" href="{{ asset('assets/css/bootstrap.css')}}">
 	<!-- Flexslider  -->
-	<link rel="stylesheet" href="css/flexslider.css">
+	<link rel="stylesheet" href="{{ asset('assets/css/flexslider.css')}}">
 	<!-- Magnific Popup -->
-	<link rel="stylesheet" href="css/magnific-popup.css">
+	<link rel="stylesheet" href="{{ asset('assets/css/magnific-popup.css')}}">
 	<!-- Owl Carousel -->
-	<link rel="stylesheet" href="css/owl.carousel.min.css">
-	<link rel="stylesheet" href="css/owl.theme.default.min.css">
+	<link rel="stylesheet" href="{{ asset('assets/css/owl.carousel.min.css')}}">
+	<link rel="stylesheet" href="{{ asset('assets/css/owl.theme.default.min.css')}}">
 	<!-- Theme style  -->
-	<link rel="stylesheet" href="css/style.css">
+	<link rel="stylesheet" href="{{ asset('assets/css/style.css')}}">
 
 	<!-- Modernizr JS -->
-	<script src="js/modernizr-2.6.2.min.js"></script>
+	<script src="{{ asset('assets/js/modernizr-2.6.2.min.js')}}"></script>
 	<!-- FOR IE9 below -->
 	<!--[if lt IE 9]>
-	<script src="js/respond.min.js"></script>
+	<script src="{{ asset('assets/js/respond.min.js')}}"></script>
 	<![endif]-->
 
 	</head>
@@ -325,26 +325,26 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 	</div>
 
 	<!-- jQuery -->
-	<script src="js/jquery.min.js"></script>
+	<script src="{{ asset('assets/js/jquery.min.js')}}"></script>
 	<!-- jQuery Easing -->
-	<script src="js/jquery.easing.1.3.js"></script>
+	<script src="{{ asset('assets/js/jquery.easing.1.3.js')}}"></script>
 	<!-- Bootstrap -->
-	<script src="js/bootstrap.min.js"></script>
+	<script src="{{ asset('assets/js/bootstrap.min.js')}}"></script>
 	<!-- Waypoints -->
-	<script src="js/jquery.waypoints.min.js"></script>
+	<script src="{{ asset('assets/js/jquery.waypoints.min.js')}}"></script>
 	<!-- Flexslider -->
-	<script src="js/jquery.flexslider-min.js"></script>
+	<script src="{{ asset('assets/js/jquery.flexslider-min.js')}}"></script>
 	<!-- Magnific Popup -->
-	<script src="js/jquery.magnific-popup.min.js"></script>
-	<script src="js/magnific-popup-options.js"></script>
+	<script src="{{ asset('assets/js/jquery.magnific-popup.min.js')}}"></script>
+	<script src="{{ asset('assets/js/magnific-popup-options.js')}}"></script>
 	<!-- Owl Carousel -->
-	<script src="js/owl.carousel.min.js"></script>
+	<script src="{{ asset('assets/js/owl.carousel.min.js')}}"></script>
 	<!-- Sticky Kit -->
-	<script src="js/sticky-kit.min.js"></script>
+	<script src="{{ asset('assets/js/sticky-kit.min.js')}}"></script>
 
 
 	<!-- MAIN JS -->
-	<script src="js/main.js"></script>
+	<script src="{{ asset('assets/js/main.js')}}"></script>
 
 	</body>
 </html>
