@@ -94,9 +94,9 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 											<span class="date">25 May 2018</span>
 											<span class="pos">By <a href="#">Walter</a></span>
 										</p>
-										<h2><a href="single.html">Nature lover</a></h2>
+										<h2><a href="single">Nature lover</a></h2>
 										<p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
-										<p><a href="single.html" class="btn btn-primary with-arrow">Read More <i class="icon-arrow-right22"></i></a></p>
+										<p><a href="single" class="btn btn-primary with-arrow">Read More <i class="icon-arrow-right22"></i></a></p>
 									</div>
 								</article>
 								<article class="blog-entry-travel animate-box">
@@ -107,9 +107,9 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 											<span class="date">25 May 2018</span>
 											<span class="pos">By <a href="#">Walter</a></span>
 										</p>
-										<h2><a href="single.html">Free Workspace 2018</a></h2>
+										<h2><a href="single">Free Workspace 2018</a></h2>
 										<p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
-										<p><a href="single.html" class="btn btn-primary with-arrow">Read More <i class="icon-arrow-right22"></i></a></p>
+										<p><a href="single" class="btn btn-primary with-arrow">Read More <i class="icon-arrow-right22"></i></a></p>
 									</div>
 								</article>
 								<article class="blog-entry-travel animate-box">
@@ -120,9 +120,9 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 											<span class="date">25 May 2018</span>
 											<span class="pos">By <a href="#">Walter</a></span>
 										</p>
-										<h2><a href="single.html">A guy in a fashion</a></h2>
+										<h2><a href="single">A guy in a fashion</a></h2>
 										<p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
-										<p><a href="single.html" class="btn btn-primary with-arrow">Read More <i class="icon-arrow-right22"></i></a></p>
+										<p><a href="single" class="btn btn-primary with-arrow">Read More <i class="icon-arrow-right22"></i></a></p>
 									</div>
 								</article>
 								<article class="blog-entry-travel animate-box">
@@ -133,9 +133,9 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 											<span class="date">25 May 2018</span>
 											<span class="pos">By <a href="#">Walter</a></span>
 										</p>
-										<h2><a href="single.html">A red fish from asia</a></h2>
+										<h2><a href="single">A red fish from asia</a></h2>
 										<p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
-										<p><a href="single.html" class="btn btn-primary with-arrow">Read More <i class="icon-arrow-right22"></i></a></p>
+										<p><a href="single" class="btn btn-primary with-arrow">Read More <i class="icon-arrow-right22"></i></a></p>
 									</div>
 								</article>
 								<article class="blog-entry-travel animate-box">
@@ -146,9 +146,9 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 											<span class="date">25 May 2018</span>
 											<span class="pos">By <a href="#">Walter</a></span>
 										</p>
-										<h2><a href="single.html">A Fashion modeling</a></h2>
+										<h2><a href="single">A Fashion modeling</a></h2>
 										<p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
-										<p><a href="single.html" class="btn btn-primary with-arrow">Read More <i class="icon-arrow-right22"></i></a></p>
+										<p><a href="single" class="btn btn-primary with-arrow">Read More <i class="icon-arrow-right22"></i></a></p>
 									</div>
 								</article>
 								<article class="blog-entry-travel animate-box">
@@ -159,9 +159,9 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 											<span class="date">25 May 2018</span>
 											<span class="pos">By <a href="#">Walter</a></span>
 										</p>
-										<h2><a href="single.html">Liam Neeson</a></h2>
+										<h2><a href="single">Liam Neeson</a></h2>
 										<p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
-										<p><a href="single.html" class="btn btn-primary with-arrow">Read More <i class="icon-arrow-right22"></i></a></p>
+										<p><a href="single" class="btn btn-primary with-arrow">Read More <i class="icon-arrow-right22"></i></a></p>
 									</div>
 								</article>
 								<article class="blog-entry-travel animate-box">
@@ -172,9 +172,9 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 											<span class="date">25 May 2018</span>
 											<span class="pos">By <a href="#">Walter</a></span>
 										</p>
-										<h2><a href="single.html">John Wick</a></h2>
+										<h2><a href="single">John Wick</a></h2>
 										<p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
-										<p><a href="single.html" class="btn btn-primary with-arrow">Read More <i class="icon-arrow-right22"></i></a></p>
+										<p><a href="single" class="btn btn-primary with-arrow">Read More <i class="icon-arrow-right22"></i></a></p>
 									</div>
 								</article>
 								<article class="blog-entry-travel animate-box">
@@ -185,9 +185,9 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 											<span class="date">25 May 2018</span>
 											<span class="pos">By <a href="#">Walter</a></span>
 										</p>
-										<h2><a href="single.html">An eye of a hawk</a></h2>
+										<h2><a href="single">An eye of a hawk</a></h2>
 										<p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
-										<p><a href="single.html" class="btn btn-primary with-arrow">Read More <i class="icon-arrow-right22"></i></a></p>
+										<p><a href="single" class="btn btn-primary with-arrow">Read More <i class="icon-arrow-right22"></i></a></p>
 									</div>
 								</article>
 							</div>
@@ -217,26 +217,26 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 								<div class="side animate-box">
 									<h2 class="sidebar-heading">Recent Blog</h2>
 									<div class="f-blog">
-										<a href="blog.html" class="blog-img" style="background-image: url(/assets/images/blog-1.jpg);">
+										<a href="blog" class="blog-img" style="background-image: url(/assets/images/blog-1.jpg);">
 										</a>
 										<div class="desc">
-											<h3><a href="blog.html">Be a designer</a></h3>
+											<h3><a href="blog">Be a designer</a></h3>
 											<p class="admin"><span>25 March 2018</span></p>
 										</div>
 									</div>
 									<div class="f-blog">
-										<a href="blog.html" class="blog-img" style="background-image: url(/assets/images/blog-2.jpg);">
+										<a href="blog" class="blog-img" style="background-image: url(/assets/images/blog-2.jpg);">
 										</a>
 										<div class="desc">
-											<h3><a href="blog.html">How to build website</a></h3>
+											<h3><a href="blog">How to build website</a></h3>
 											<p class="admin"><span>24 March 2018</span></p>
 										</div>
 									</div>
 									<div class="f-blog">
-										<a href="blog.html" class="blog-img" style="background-image: url(/assets/images/blog-3.jpg);">
+										<a href="blog" class="blog-img" style="background-image: url(/assets/images/blog-3.jpg);">
 										</a>
 										<div class="desc">
-											<h3><a href="blog.html">Create website</a></h3>
+											<h3><a href="blog">Create website</a></h3>
 											<p class="admin"><span>23 March 2018</span></p>
 										</div>
 									</div>

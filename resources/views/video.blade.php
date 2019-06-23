@@ -101,7 +101,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 												<span class="date">25 May 2018</span>
 												<span class="pos">By <a href="#">Walter</a></span>
 											</p>
-											<h2><a href="blog.html">Watch Liam Neeson</a></h2>
+											<h2><a href="blog">Watch Liam Neeson</a></h2>
 											<p>A small river named Duden flows by their place and supplies it with the necessary </p>
 										</div>
 									</div>
@@ -121,7 +121,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 												<span class="date">25 May 2018</span>
 												<span class="pos">By <a href="#">Walter</a></span>
 											</p>
-											<h2><a href="blog.html">Watch Liam Neeson</a></h2>
+											<h2><a href="blog">Watch Liam Neeson</a></h2>
 											<p>A small river named Duden flows by their place and supplies it with the necessary </p>
 										</div>
 									</div>
@@ -141,7 +141,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 												<span class="date">25 May 2018</span>
 												<span class="pos">By <a href="#">Walter</a></span>
 											</p>
-											<h2><a href="blog.html">Watch Liam Neeson</a></h2>
+											<h2><a href="blog">Watch Liam Neeson</a></h2>
 											<p>A small river named Duden flows by their place and supplies it with the necessary </p>
 										</div>
 									</div>
@@ -161,7 +161,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 												<span class="date">25 May 2018</span>
 												<span class="pos">By <a href="#">Walter</a></span>
 											</p>
-											<h2><a href="blog.html">Watch Liam Neeson</a></h2>
+											<h2><a href="blog">Watch Liam Neeson</a></h2>
 											<p>A small river named Duden flows by their place and supplies it with the necessary </p>
 										</div>
 									</div>
@@ -181,7 +181,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 												<span class="date">25 May 2018</span>
 												<span class="pos">By <a href="#">Walter</a></span>
 											</p>
-											<h2><a href="blog.html">Watch Liam Neeson</a></h2>
+											<h2><a href="blog">Watch Liam Neeson</a></h2>
 											<p>A small river named Duden flows by their place and supplies it with the necessary </p>
 										</div>
 									</div>
@@ -215,26 +215,26 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 								<div class="side animate-box">
 									<h2 class="sidebar-heading">Recent Blog</h2>
 									<div class="f-blog">
-										<a href="blog.html" class="blog-img" style="background-image: url(/assets/images/blog-1.jpg);">
+										<a href="blog" class="blog-img" style="background-image: url(/assets/images/blog-1.jpg);">
 										</a>
 										<div class="desc">
-											<h3><a href="blog.html">Be a designer</a></h3>
+											<h3><a href="blog">Be a designer</a></h3>
 											<p class="admin"><span>25 March 2018</span></p>
 										</div>
 									</div>
 									<div class="f-blog">
-										<a href="blog.html" class="blog-img" style="background-image: url(/assets/images/blog-2.jpg);">
+										<a href="blog" class="blog-img" style="background-image: url(/assets/images/blog-2.jpg);">
 										</a>
 										<div class="desc">
-											<h3><a href="blog.html">How to build website</a></h3>
+											<h3><a href="blog">How to build website</a></h3>
 											<p class="admin"><span>24 March 2018</span></p>
 										</div>
 									</div>
 									<div class="f-blog">
-										<a href="blog.html" class="blog-img" style="background-image: url(/assets/images/blog-3.jpg);">
+										<a href="blog" class="blog-img" style="background-image: url(/assets/images/blog-3.jpg);">
 										</a>
 										<div class="desc">
-											<h3><a href="blog.html">Create website</a></h3>
+											<h3><a href="blog">Create website</a></h3>
 											<p class="admin"><span>23 March 2018</span></p>
 										</div>
 									</div>

@@ -95,7 +95,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 					</div>
 					<div class="col-md-4">
 						<div class="featured-post2">
-							<a href="single.html" class="blog-img" style="background-image: url(/assets/images/img_bg_2.jpg);">
+							<a href="single" class="blog-img" style="background-image: url(/assets/images/img_bg_2.jpg);">
 								<span class="desc">
 									<p class="tag"><span>Animal</span></p>
 									<h2>Shark the movie</h2>
@@ -103,7 +103,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 							</a>
 						</div>
 						<div class="featured-post2">
-							<a href="single.html" class="blog-img" style="background-image: url(/assets/images/img_bg_3.jpg);">
+							<a href="single" class="blog-img" style="background-image: url(/assets/images/img_bg_3.jpg);">
 								<span class="desc">
 									<p class="tag"><span>Auto</span></p>
 									<h2>Race bike</h2>
@@ -111,7 +111,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 							</a>
 						</div>
 						<div class="featured-post2">
-							<a href="single.html" class="blog-img" style="background-image: url(/assets/images/blog-2.jpg);">
+							<a href="single" class="blog-img" style="background-image: url(/assets/images/blog-2.jpg);">
 								<span class="desc">
 									<p class="tag"><span>Style</span></p>
 									<h2>Fashion is life</h2>
@@ -126,7 +126,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 					<div class="row">
 						<div class="col-md-4 text-center">
 							<div class="blog-entry-sports animate-box">
-								<a href="single.html" class="blog-img" style="background-image: url(/assets/images/blog-1.jpg);">
+								<a href="single" class="blog-img" style="background-image: url(/assets/images/blog-1.jpg);">
 								</a>
 								<div class="desc">
 									<p class="tag"><span>Nature</span></p>
@@ -137,7 +137,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 						</div>
 						<div class="col-md-4 text-center">
 							<div class="blog-entry-sports animate-box">
-								<a href="single.html" class="blog-img" style="background-image: url(/assets/images/blog-2.jpg);">
+								<a href="single" class="blog-img" style="background-image: url(/assets/images/blog-2.jpg);">
 								</a>
 								<div class="desc">
 									<p class="tag"><span>Fashion</span></p>
@@ -148,7 +148,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 						</div>
 						<div class="col-md-4 text-center">
 							<div class="blog-entry-sports animate-box">
-								<a href="single.html" class="blog-img" style="background-image: url(/assets/images/blog-3.jpg);">
+								<a href="single" class="blog-img" style="background-image: url(/assets/images/blog-3.jpg);">
 								</a>
 								<div class="desc">
 									<p class="tag"><span>Technology</span></p>
@@ -162,7 +162,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 					<div class="row">
 						<div class="col-md-4 text-center">
 							<div class="blog-entry-sports animate-box">
-								<a href="single.html" class="blog-img" style="background-image: url(/assets/images/blog-4.jpg);">
+								<a href="single" class="blog-img" style="background-image: url(/assets/images/blog-4.jpg);">
 								</a>
 								<div class="desc">
 									<p class="tag"><span>Nature</span></p>
@@ -173,7 +173,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 						</div>
 						<div class="col-md-4 text-center">
 							<div class="blog-entry-sports animate-box">
-								<a href="single.html" class="blog-img" style="background-image: url(/assets/images/blog-5.jpg);">
+								<a href="single" class="blog-img" style="background-image: url(/assets/images/blog-5.jpg);">
 								</a>
 								<div class="desc">
 									<p class="tag"><span>Fashion</span></p>
@@ -184,7 +184,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 						</div>
 						<div class="col-md-4 text-center">
 							<div class="blog-entry-sports animate-box">
-								<a href="single.html" class="blog-img" style="background-image: url(/assets/images/blog-6.jpg);">
+								<a href="single" class="blog-img" style="background-image: url(/assets/images/blog-6.jpg);">
 								</a>
 								<div class="desc">
 									<p class="tag"><span>Technology</span></p>
@@ -198,7 +198,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 					<div class="row">
 						<div class="col-md-4 text-center">
 							<div class="blog-entry-sports animate-box">
-								<a href="single.html" class="blog-img" style="background-image: url(/assets/images/blog-7.jpg);">
+								<a href="single" class="blog-img" style="background-image: url(/assets/images/blog-7.jpg);">
 								</a>
 								<div class="desc">
 									<p class="tag"><span>Nature</span></p>
@@ -209,7 +209,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 						</div>
 						<div class="col-md-4 text-center">
 							<div class="blog-entry-sports animate-box">
-								<a href="single.html" class="blog-img" style="background-image: url(/assets/images/blog-8.jpg);">
+								<a href="single" class="blog-img" style="background-image: url(/assets/images/blog-8.jpg);">
 								</a>
 								<div class="desc">
 									<p class="tag"><span>Fashion</span></p>
@@ -220,7 +220,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 						</div>
 						<div class="col-md-4 text-center">
 							<div class="blog-entry-sports animate-box">
-								<a href="single.html" class="blog-img" style="background-image: url(/assets/images/blog-9.jpg);">
+								<a href="single" class="blog-img" style="background-image: url(/assets/images/blog-9.jpg);">
 								</a>
 								<div class="desc">
 									<p class="tag"><span>Technology</span></p>
@@ -234,7 +234,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 					<div class="row">
 						<div class="col-md-4 text-center">
 							<div class="blog-entry-sports animate-box">
-								<a href="single.html" class="blog-img" style="background-image: url(/assets/images/blog-10.jpg);">
+								<a href="single" class="blog-img" style="background-image: url(/assets/images/blog-10.jpg);">
 								</a>
 								<div class="desc">
 									<p class="tag"><span>Nature</span></p>
@@ -245,7 +245,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 						</div>
 						<div class="col-md-4 text-center">
 							<div class="blog-entry-sports animate-box">
-								<a href="single.html" class="blog-img" style="background-image: url(/assets/images/blog-11.jpg);">
+								<a href="single" class="blog-img" style="background-image: url(/assets/images/blog-11.jpg);">
 								</a>
 								<div class="desc">
 									<p class="tag"><span>Fashion</span></p>
@@ -256,7 +256,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 						</div>
 						<div class="col-md-4 text-center">
 							<div class="blog-entry-sports animate-box">
-								<a href="single.html" class="blog-img" style="background-image: url(/assets/images/blog-12.jpg);">
+								<a href="single" class="blog-img" style="background-image: url(/assets/images/blog-12.jpg);">
 								</a>
 								<div class="desc">
 									<p class="tag"><span>Technology</span></p>

@@ -175,12 +175,12 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 												<span>Video</span>
 												<span>25 May 2018</span>
 												<span>admin </span>
-												<span><a href="single.html">4 Comments</a></span>
+												<span><a href="single">4 Comments</a></span>
 											</p>
 										</div>
-										<h2><a href="single.html">Watch Liam Neeson Movies</a></h2>
+										<h2><a href="single">Watch Liam Neeson Movies</a></h2>
 										<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt, qui quod ipsum harum id, minima nesciunt! Saepe soluta, vitae quas expedita voluptatem voluptates placeat numquam provident quis, atque nisi iure?</p>
-										<p><a href="single.html" class="btn btn-primary with-arrow">Read More <i class="icon-arrow-right22"></i></a></p>
+										<p><a href="single" class="btn btn-primary with-arrow">Read More <i class="icon-arrow-right22"></i></a></p>
 									</div>
 								</article>
 								<article class="animate-box">
@@ -194,9 +194,9 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 												<span><a href="#">3 Comments</a></span>
 											</p>
 										</div>
-										<h2><a href="single.html">Take a perfect shot, capture everything in Nature</a></h2>
+										<h2><a href="single">Take a perfect shot, capture everything in Nature</a></h2>
 										<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt, qui quod ipsum harum id, minima nesciunt! Saepe soluta, vitae quas expedita voluptatem voluptates placeat numquam provident quis, atque nisi iure?</p>
-										<p><a href="single.html" class="btn btn-primary with-arrow">Read More <i class="icon-arrow-right22"></i></a></p>
+										<p><a href="single" class="btn btn-primary with-arrow">Read More <i class="icon-arrow-right22"></i></a></p>
 									</div>
 								</article>
 								<article class="animate-box">
@@ -207,12 +207,12 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 												<span>Fashion</span>
 												<span>25 May 2018</span>
 												<span>admin </span>
-												<span><a href="single.html">4 Comments</a></span>
+												<span><a href="single">4 Comments</a></span>
 											</p>
 										</div>
-										<h2><a href="single.html">Fashion &amp; Modeling</a></h2>
+										<h2><a href="single">Fashion &amp; Modeling</a></h2>
 										<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt, qui quod ipsum harum id, minima nesciunt! Saepe soluta, vitae quas expedita voluptatem voluptates placeat numquam provident quis, atque nisi iure?</p>
-										<p><a href="single.html" class="btn btn-primary with-arrow">Read More <i class="icon-arrow-right22"></i></a></p>
+										<p><a href="single" class="btn btn-primary with-arrow">Read More <i class="icon-arrow-right22"></i></a></p>
 									</div>
 								</article>
 								<article class="animate-box">
@@ -223,12 +223,12 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 												<span>Fashion</span>
 												<span>25 May 2018</span>
 												<span>admin </span>
-												<span><a href="single.html">4 Comments</a></span>
+												<span><a href="single">4 Comments</a></span>
 											</p>
 										</div>
-										<h2><a href="single.html">A man with integrity</a></h2>
+										<h2><a href="single">A man with integrity</a></h2>
 										<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt, qui quod ipsum harum id, minima nesciunt! Saepe soluta, vitae quas expedita voluptatem voluptates placeat numquam provident quis, atque nisi iure?</p>
-										<p><a href="single.html" class="btn btn-primary with-arrow">Read More <i class="icon-arrow-right22"></i></a></p>
+										<p><a href="single" class="btn btn-primary with-arrow">Read More <i class="icon-arrow-right22"></i></a></p>
 									</div>
 								</article>
 								<article class="animate-box">
@@ -239,12 +239,12 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 												<span>Fashion</span>
 												<span>25 May 2018</span>
 												<span>admin </span>
-												<span><a href="single.html">4 Comments</a></span>
+												<span><a href="single">4 Comments</a></span>
 											</p>
 										</div>
-										<h2><a href="single.html">Red fish capture</a></h2>
+										<h2><a href="single">Red fish capture</a></h2>
 										<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt, qui quod ipsum harum id, minima nesciunt! Saepe soluta, vitae quas expedita voluptatem voluptates placeat numquam provident quis, atque nisi iure?</p>
-										<p><a href="single.html" class="btn btn-primary with-arrow">Read More <i class="icon-arrow-right22"></i></a></p>
+										<p><a href="single" class="btn btn-primary with-arrow">Read More <i class="icon-arrow-right22"></i></a></p>
 									</div>
 								</article>
 								<article class="animate-box">
@@ -255,12 +255,12 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 												<span>Fashion</span>
 												<span>25 May 2018</span>
 												<span>admin </span>
-												<span><a href="single.html">4 Comments</a></span>
+												<span><a href="single">4 Comments</a></span>
 											</p>
 										</div>
-										<h2><a href="single.html">John Wick the movie</a></h2>
+										<h2><a href="single">John Wick the movie</a></h2>
 										<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt, qui quod ipsum harum id, minima nesciunt! Saepe soluta, vitae quas expedita voluptatem voluptates placeat numquam provident quis, atque nisi iure?</p>
-										<p><a href="single.html" class="btn btn-primary with-arrow">Read More <i class="icon-arrow-right22"></i></a></p>
+										<p><a href="single" class="btn btn-primary with-arrow">Read More <i class="icon-arrow-right22"></i></a></p>
 									</div>
 								</article>
 								<article class="animate-box">
@@ -271,12 +271,12 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 												<span>Fashion</span>
 												<span>25 May 2018</span>
 												<span>admin </span>
-												<span><a href="single.html">4 Comments</a></span>
+												<span><a href="single">4 Comments</a></span>
 											</p>
 										</div>
-										<h2><a href="single.html">Eye of a hawk</a></h2>
+										<h2><a href="single">Eye of a hawk</a></h2>
 										<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt, qui quod ipsum harum id, minima nesciunt! Saepe soluta, vitae quas expedita voluptatem voluptates placeat numquam provident quis, atque nisi iure?</p>
-										<p><a href="single.html" class="btn btn-primary with-arrow">Read More <i class="icon-arrow-right22"></i></a></p>
+										<p><a href="single" class="btn btn-primary with-arrow">Read More <i class="icon-arrow-right22"></i></a></p>
 									</div>
 								</article>
 								<div class="row">
@@ -318,26 +318,26 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 								<div class="side animate-box">
 									<h2 class="sidebar-heading">Recent Blog</h2>
 									<div class="f-blog">
-										<a href="blog.html" class="blog-img" style="background-image: url(/assets/images/blog-1.jpg);">
+										<a href="blog" class="blog-img" style="background-image: url(/assets/images/blog-1.jpg);">
 										</a>
 										<div class="desc">
-											<h3><a href="blog.html">Be a designer</a></h3>
+											<h3><a href="blog">Be a designer</a></h3>
 											<p class="admin"><span>25 March 2018</span></p>
 										</div>
 									</div>
 									<div class="f-blog">
-										<a href="blog.html" class="blog-img" style="background-image: url(/assets/images/blog-2.jpg);">
+										<a href="blog" class="blog-img" style="background-image: url(/assets/images/blog-2.jpg);">
 										</a>
 										<div class="desc">
-											<h3><a href="blog.html">How to build website</a></h3>
+											<h3><a href="blog">How to build website</a></h3>
 											<p class="admin"><span>24 March 2018</span></p>
 										</div>
 									</div>
 									<div class="f-blog">
-										<a href="blog.html" class="blog-img" style="background-image: url(/assets/images/blog-3.jpg);">
+										<a href="blog" class="blog-img" style="background-image: url(/assets/images/blog-3.jpg);">
 										</a>
 										<div class="desc">
-											<h3><a href="blog.html">Create website</a></h3>
+											<h3><a href="blog">Create website</a></h3>
 											<p class="admin"><span>23 March 2018</span></p>
 										</div>
 									</div>
