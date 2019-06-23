@@ -145,7 +145,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 						<div class="col-md-4">
 							<div class="blog-entry-style animate-box">
 								<div class="blog-img">
-									<a href="blog"><img src="{{ asset('/assets/images/blog-1.jpg')}}" class="img-responsive" alt="html5 bootstrap template"></a>
+									<a href="blog.html"><img src="{{ asset('/assets/images/blog-1.jpg')}}" class="img-responsive" alt="html5 bootstrap template"></a>
 								</div>
 								<div class="desc">
 									<p class="meta">
@@ -153,7 +153,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 										<span class="date">25 May 2018</span>
 										<span class="pos">By <a href="#">Walter</a></span>
 									</p>
-									<h2><a href="blog">Nature lover</a></h2>
+									<h2><a href="blog.html">Nature lover</a></h2>
 									<p>A small river named Duden flows by their place and supplies it with the necessary </p>
 								</div>
 							</div>
@@ -161,7 +161,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 						<div class="col-md-4">
 							<div class="blog-entry-style animate-box">
 								<div class="blog-img">
-									<a href="blog"><img src="{{ asset('/assets/images/blog-2.jpg')}}" class="img-responsive" alt="html5 bootstrap template"></a>
+									<a href="blog.html"><img src="{{ asset('/assets/images/blog-2.jpg')}}" class="img-responsive" alt="html5 bootstrap template"></a>
 								</div>
 								<div class="desc">
 									<p class="meta">
@@ -169,7 +169,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 										<span class="date">25 May 2018</span>
 										<span class="pos">By <a href="#">Walter</a></span>
 									</p>
-									<h2><a href="blog">Girl Fashion</a></h2>
+									<h2><a href="blog.html">Girl Fashion</a></h2>
 									<p>A small river named Duden flows by their place and supplies it with the necessary </p>
 								</div>
 							</div>
@@ -179,10 +179,10 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 								<div class="blog-slider">
 									<div class="owl-carousel">
 										<div class="item">
-											<a href="blog" class="image-popup-link"><img src="{{ asset('/assets/images/blog-3.jpg')}}" class="img-responsive" alt="html5 bootstrap template"></a>
+											<a href="blog.html" class="image-popup-link"><img src="{{ asset('/assets/images/blog-3.jpg')}}" class="img-responsive" alt="html5 bootstrap template"></a>
 										</div>
 										<div class="item">
-											<a href="blog" class="image-popup-link"><img src="{{ asset('/assets/images/blog-4.jpg')}}" class="img-responsive" alt="html5 bootstrap template"></a>
+											<a href="blog.html" class="image-popup-link"><img src="{{ asset('/assets/images/blog-4.jpg')}}" class="img-responsive" alt="html5 bootstrap template"></a>
 										</div>
 									</div>
 								</div>
@@ -192,7 +192,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 										<span class="date">25 May 2018</span>
 										<span class="pos">By <a href="#">Walter</a></span>
 									</p>
-									<h2><a href="blog">Slider Image</a></h2>
+									<h2><a href="blog.html">Slider Image</a></h2>
 									<p>A small river named Duden flows by their place and supplies it with the necessary </p>
 								</div>
 							</div>
@@ -202,7 +202,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 						<div class="col-md-4">
 							<div class="blog-entry-style animate-box">
 								<div class="blog-img">
-									<a href="blog"><img src="{{ asset('/assets/images/blog-4.jpg')}}" class="img-responsive" alt="html5 bootstrap template"></a>
+									<a href="blog.html"><img src="{{ asset('/assets/images/blog-4.jpg')}}" class="img-responsive" alt="html5 bootstrap template"></a>
 								</div>
 								<div class="desc">
 									<p class="meta">
@@ -210,7 +210,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 										<span class="date">25 May 2018</span>
 										<span class="pos">By <a href="#">Walter</a></span>
 									</p>
-									<h2><a href="blog">A man in black suit</a></h2>
+									<h2><a href="blog.html">A man in black suit</a></h2>
 									<p>A small river named Duden flows by their place and supplies it with the necessary </p>
 								</div>
 							</div>
@@ -218,7 +218,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 						<div class="col-md-4">
 							<div class="blog-entry-style animate-box">
 								<div class="blog-img">
-									<a href="blog"><img src="{{ asset('/assets/images/blog-5.jpg')}}" class="img-responsive" alt="html5 bootstrap template"></a>
+									<a href="blog.html"><img src="{{ asset('/assets/images/blog-5.jpg')}}" class="img-responsive" alt="html5 bootstrap template"></a>
 								</div>
 								<div class="desc">
 									<p class="meta">
@@ -226,7 +226,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 										<span class="date">25 May 2018</span>
 										<span class="pos">By <a href="#">Walter</a></span>
 									</p>
-									<h2><a href="blog">Red Fish</a></h2>
+									<h2><a href="blog.html">Red Fish</a></h2>
 									<p>A small river named Duden flows by their place and supplies it with the necessary </p>
 								</div>
 							</div>
@@ -234,7 +234,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 						<div class="col-md-4">
 							<div class="blog-entry-style animate-box">
 								<div class="blog-img">
-									<a href="blog"><img src="{{ asset('/assets/images/blog-7.jpg')}}" class="img-responsive" alt="html5 bootstrap template"></a>
+									<a href="blog.html"><img src="{{ asset('/assets/images/blog-7.jpg')}}" class="img-responsive" alt="html5 bootstrap template"></a>
 								</div>
 								<div class="desc">
 									<p class="meta">
@@ -242,7 +242,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 										<span class="date">25 May 2018</span>
 										<span class="pos">By <a href="#">Walter</a></span>
 									</p>
-									<h2><a href="blog">Video John Wick</a></h2>
+									<h2><a href="blog.html">Video John Wick</a></h2>
 									<p>A small river named Duden flows by their place and supplies it with the necessary </p>
 								</div>
 							</div>
@@ -263,7 +263,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 										<span class="date">25 May 2018</span>
 										<span class="pos">By <a href="#">Walter</a></span>
 									</p>
-									<h2><a href="blog">Watch Liam Neeson</a></h2>
+									<h2><a href="blog.html">Watch Liam Neeson</a></h2>
 									<p>A small river named Duden flows by their place and supplies it with the necessary </p>
 								</div>
 							</div>
@@ -271,7 +271,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 						<div class="col-md-4">
 							<div class="blog-entry-style animate-box">
 								<div class="blog-img">
-									<a href="blog"><img src="{{ asset('/assets/images/blog-8.jpg')}}" class="img-responsive" alt="html5 bootstrap template"></a>
+									<a href="blog.html"><img src="{{ asset('/assets/images/blog-8.jpg')}}" class="img-responsive" alt="html5 bootstrap template"></a>
 								</div>
 								<div class="desc">
 									<p class="meta">
@@ -279,7 +279,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 										<span class="date">25 May 2018</span>
 										<span class="pos">By <a href="#">Walter</a></span>
 									</p>
-									<h2><a href="blog">Black owl</a></h2>
+									<h2><a href="blog.html">Black owl</a></h2>
 									<p>A small river named Duden flows by their place and supplies it with the necessary </p>
 								</div>
 							</div>
@@ -289,7 +289,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 						<div class="col-md-4">
 							<div class="blog-entry-style animate-box">
 								<div class="blog-img">
-									<a href="blog"><img src="{{ asset('/assets/images/blog-9.jpg')}}" class="img-responsive" alt="html5 bootstrap template"></a>
+									<a href="blog.html"><img src="{{ asset('/assets/images/blog-9.jpg')}}" class="img-responsive" alt="html5 bootstrap template"></a>
 								</div>
 								<div class="desc">
 									<p class="meta">
@@ -297,7 +297,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 										<span class="date">25 May 2018</span>
 										<span class="pos">By <a href="#">Walter</a></span>
 									</p>
-									<h2><a href="blog">Race bike</a></h2>
+									<h2><a href="blog.html">Race bike</a></h2>
 									<p>A small river named Duden flows by their place and supplies it with the necessary </p>
 								</div>
 							</div>
@@ -305,7 +305,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 						<div class="col-md-4">
 							<div class="blog-entry-style animate-box">
 								<div class="blog-img">
-									<a href="blog"><img src="{{ asset('/assets/images/blog-10.jpg')}}" class="img-responsive" alt="html5 bootstrap template"></a>
+									<a href="blog.html"><img src="{{ asset('/assets/images/blog-10.jpg')}}" class="img-responsive" alt="html5 bootstrap template"></a>
 								</div>
 								<div class="desc">
 									<p class="meta">
@@ -313,7 +313,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 										<span class="date">25 May 2018</span>
 										<span class="pos">By <a href="#">Walter</a></span>
 									</p>
-									<h2><a href="blog">BMW i8</a></h2>
+									<h2><a href="blog.html">BMW i8</a></h2>
 									<p>A small river named Duden flows by their place and supplies it with the necessary </p>
 								</div>
 							</div>
@@ -321,7 +321,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 						<div class="col-md-4">
 							<div class="blog-entry-style animate-box">
 								<div class="blog-img">
-									<a href="blog"><img src="{{ asset('/assets/images/blog-11.jpg')}}" class="img-responsive" alt="html5 bootstrap template"></a>
+									<a href="blog.html"><img src="{{ asset('/assets/images/blog-11.jpg')}}" class="img-responsive" alt="html5 bootstrap template"></a>
 								</div>
 								<div class="desc">
 									<p class="meta">
@@ -329,7 +329,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 										<span class="date">25 May 2018</span>
 										<span class="pos">By <a href="#">Walter</a></span>
 									</p>
-									<h2><a href="blog">Guy in shadow</a></h2>
+									<h2><a href="blog.html">Guy in shadow</a></h2>
 									<p>A small river named Duden flows by their place and supplies it with the necessary </p>
 								</div>
 							</div>
@@ -339,7 +339,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 						<div class="col-md-4">
 							<div class="blog-entry-style animate-box">
 								<div class="blog-img">
-									<a href="blog"><img src="{{ asset('/assets/images/blog-12.jpg')}}" class="img-responsive" alt="html5 bootstrap template"></a>
+									<a href="blog.html"><img src="{{ asset('/assets/images/blog-12.jpg')}}" class="img-responsive" alt="html5 bootstrap template"></a>
 								</div>
 								<div class="desc">
 									<p class="meta">
@@ -347,7 +347,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 										<span class="date">25 May 2018</span>
 										<span class="pos">By <a href="#">Walter</a></span>
 									</p>
-									<h2><a href="blog">Red chairs</a></h2>
+									<h2><a href="blog.html">Red chairs</a></h2>
 									<p>A small river named Duden flows by their place and supplies it with the necessary </p>
 								</div>
 							</div>
@@ -355,7 +355,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 						<div class="col-md-8">
 							<div class="blog-entry-style animate-box">
 								<div class="blog-img">
-									<a href="blog"><img src="{{ asset('/assets/images/blog-13.jpg')}}" class="img-responsive" alt="html5 bootstrap template"></a>
+									<a href="blog.html"><img src="{{ asset('/assets/images/blog-13.jpg')}}" class="img-responsive" alt="html5 bootstrap template"></a>
 								</div>
 								<div class="desc">
 									<p class="meta">
@@ -363,7 +363,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 										<span class="date">25 May 2018</span>
 										<span class="pos">By <a href="#">Walter</a></span>
 									</p>
-									<h2><a href="blog">Kiddy Fashion</a></h2>
+									<h2><a href="blog.html">Kiddy Fashion</a></h2>
 									<p>A small river named Duden flows by their place and supplies it with the necessary </p>
 								</div>
 							</div>

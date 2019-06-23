@@ -26,20 +26,20 @@
 	<link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,700" rel="stylesheet">
 
 	<!-- Animate.css -->
-	<link rel="stylesheet" href="{{ asset('assets/css/animate.css')}}">
+	<link rel="stylesheet" href="{{  asset( 'assets/css/animate.css')}}">
 	<!-- Icomoon Icon Fonts-->
-	<link rel="stylesheet" href="{{ asset('assets/css/icomoon.css')}}">
+	<link rel="stylesheet" href="{{  asset( 'assets/css/icomoon.css')}}">
 	<!-- Bootstrap  -->
-	<link rel="stylesheet" href="{{ asset('assets/css/bootstrap.css')}}">
+	<link rel="stylesheet" href="{{  asset( 'assets/css/bootstrap.css')}}">
 	<!-- Flexslider  -->
-	<link rel="stylesheet" href="{{ asset('assets/css/flexslider.css')}}">
+	<link rel="stylesheet" href="{{  asset( 'assets/css/flexslider.css')}}">
 	<!-- Magnific Popup -->
-	<link rel="stylesheet" href="{{ asset('assets/css/magnific-popup.css')}}">
+	<link rel="stylesheet" href="{{  asset( 'assets/css/magnific-popup.css')}}">
 	<!-- Owl Carousel -->
-	<link rel="stylesheet" href="{{ asset('assets/css/owl.carousel.min.css')}}">
-	<link rel="stylesheet" href="{{ asset('assets/css/owl.theme.default.min.css')}}">
+	<link rel="stylesheet" href="{{  asset( 'assets/css/owl.carousel.min.css')}}">
+	<link rel="stylesheet" href="{{  asset( 'assets/css/owl.theme.default.min.css')}}">
 	<!-- Theme style  -->
-	<link rel="stylesheet" href="{{ asset('assets/css/style.css')}}">
+	<link rel="stylesheet" href="{{  asset( 'assets/css/style.css')}}">
 
 	<!-- Modernizr JS -->
 	<script src="{{ asset ('assets/js/modernizr-2.6.2.min.js')}}"></script>
