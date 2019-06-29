@@ -19,26 +19,30 @@ Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
 
+Route::get('/categori', function () {
+    return view('categori');
+});
+
+Route::get('/contact', function () {
+    return view('contact');
+});
+
 Route::get('/fashion', function () {
-    return view('fashion');
-});
-
-Route::get('/archives', function () {
-    return view('archives');
-});
-
-Route::get('/sports', function () {
-    return view('sports');
+    return view('categori');
 });
 
 Route::get('/style', function () {
-    return view('style');
+    return view('categori');
 });
 
 Route::get('/travel', function () {
-    return view('travel');
+    return view('categori');
 });
 
 Route::get('/video', function () {
-    return view('video');
+    return view('categori');
 });
+
+Route::resource('kategori', 'KategoriController');
+Route::resource('artikel', 'ArtikelController');
+Route::resource('tag', 'TagController');
