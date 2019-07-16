@@ -54,7 +54,6 @@ class ArtikelController extends Controller
         $artikel->konten = $request->konten;
         $artikel->id_user = Auth::user()->id;
         $artikel->id_kategori = $request->kategori;
-        /*  $artikel->save(); */
 
         if ($request->hasFile('foto')) {
             $file = $request->file('foto');
@@ -64,6 +63,7 @@ class ArtikelController extends Controller
             $artikel->foto = $filename;
         }
         $artikel->save();
+
         $artikel->tag()->attach($request->tag);
         Session::flash("flash_notification", [
             "level" => "primary",

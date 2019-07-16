@@ -19,7 +19,7 @@
 @section('content')
 <div class="container">
     <div class="row justify-content-center">
-        <div class="col-12">
+        <div class="col-15">
             <div class="card">
                 <div class="card-header">Halaman Artikel Berita</div>
                 <br>
@@ -48,7 +48,7 @@
                     </td>
                     <td> {{ $data->slug }}</td>
                     <td>{{ $data->kategori->nama_kategori }}</td>
-                     <td><img src="{{ asset('assets/img/artikel/'.$data->foto) }}" alt="" height="500px" width="500px"></td>
+                     <td><img src="{{ asset('assets/img/artikel/'.$data->foto) }}" alt="" height="200px" width="300px"></td>
                    {{--  <td>{!! $data->konten !!}</td>  --}}
 
                     <td><a href="{{ route('artikel.edit', $data->id) }}" class="btn btn-warning">Edit</a></td>
